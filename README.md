@@ -1,4 +1,4 @@
-# ⚡Blip modules collection
+# ⚡Blip module collection
 
 Collection of all the modules I've made for the gaming platform Blip.
 
